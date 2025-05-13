@@ -1,5 +1,7 @@
 # 💫 About Me:
-Fullstack developer, passionate and dedicated to my work.<br>I enjoy running, hiking, and I'm a big indie music and football stats nerd.<br>Feel free to connect with me here and on any of my socials!
+💻 Full Stack Developer | Passionate about clean code & creative solutions<br>
+🏃‍♂️⛰️ Runner, hiker, indie music 🎶 & football ⚽ stats nerd<br>
+🤝 Let’s connect here or on my socials! 🌍
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-mould-b6731a21a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@DM12_51) 
